@@ -1,7 +1,4 @@
 
-Real-Time Detection of Traffic Signs using YOLOv5s object detection algorithm. This project incorporates multilingual voice alerts and a user-friendly Tkinter-based GUI with various camera options for enhanced road safety.
-
-
 # Real-Time Traffic Sign Detection with Voice Alert
 
 An advanced real-time traffic sign detection system with voice alert capabilities. The project employs YOLOv5 for accurate and swift detection, providing multilingual voice alerts through a user-friendly Tkinter GUI. Enhance road safety and driving experience with this comprehensive solution.
