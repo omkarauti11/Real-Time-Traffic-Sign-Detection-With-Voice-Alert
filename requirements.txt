@@ -1,0 +1,31 @@
+# pip install -r requirements.txt
+
+
+# installation instructions for playsound --------
+
+# If you encounter issues with automatic installation, you can install playsound manually by following these steps:
+# 1. Download the source code from the playsound GitHub repository: https://github.com/TaylorSMarks/playsound
+# 2. Extract the downloaded archive.
+# 3. Open a command prompt or terminal in the extracted directory.
+# 4. Run the following command to install playsound:
+#    python setup.py install
+
+
+
+# base ----------------------------------------
+Cython
+matplotlib>=3.2.2
+numpy>=1.18.5
+opencv-python>=4.1.2
+Pillow
+PyYAML>=5.3
+scipy>=1.4.1
+tensorboard>=2.2
+torch>=1.6.0
+torchvision>=0.7.0
+tqdm>=4.41.0
+
+# additional libraries ------------------------
+# gtts  # Google Text-to-Speech library        
+# playsound  # Library for playing sound     
+
