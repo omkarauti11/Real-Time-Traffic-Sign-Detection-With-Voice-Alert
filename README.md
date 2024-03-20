@@ -55,7 +55,7 @@ The project provides voice alerts in English, Hindi, and Marathi using the gtts 
 2. **Navigate to the project directory:**
 
    ```bash
-     cd Real-Time-Traffic-Sign-Detection-and-Classification-with-Voice-Alert
+     cd Real-Time-Traffic-Sign-Detection-With-Voice-Alert
    ```
 
 3. **Install dependencies:**
